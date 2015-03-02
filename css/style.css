@@ -1,0 +1,100 @@
+/*	
+	Colours & Pattern: http://www.colourlovers.com/palette/92095/Giant_Goldfish
+	Images: www.cutestpaw.com/articles/50-cute-puppies-make-your-girlfriend-smile/
+*/
+
+@media only screen and (max-width: 960px) {
+
+	header {
+		text-align: center;
+	}
+
+	.author-img img {
+		margin: 0 auto;
+	}
+
+}
+
+* {
+	font-family: 'Raleway', sans-serif;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+* a {
+	color: #F38630;
+}
+
+a.cta {
+	background: #78C7AB;
+	border-radius: 4px;	
+	color: #fff;
+	display: inline-block;
+	font-weight: bold;
+	padding: 10px 20px;
+	text-transform: uppercase;
+}
+
+* img {	
+	border-radius: 4px; 
+}
+
+.container {
+	max-width: 960px;
+}
+
+/* Header */
+
+header {
+	margin-top: 20px;
+}
+
+header .cta {
+	margin-top: 20px;
+}
+
+header .author-img {
+	max-width: 140px;
+	margin: 0 auto;
+}
+
+/* Cover Image / Tagline */
+.cover img {
+	width: 100%;
+}
+
+/* Featured Work Section */
+.work-container .item {
+	margin-bottom: 20px;
+}
+
+.work-container .item img:hover {
+	opacity: .9;
+}
+
+/* Hire Me Section*/
+
+.hire-me .bg {
+	background: #E0E4CC url(../img/puppy-pattern.png);
+	padding: 2em;
+}
+
+.hire-me .wrap {
+	background-color: rgba(120,199,171, .85);
+	color: #fff;
+	padding: 1em 1em 2em;		
+}
+
+.hire-me .cta {
+	background-color: transparent;
+	border: 1px solid #fff;
+}
+
+/* Footer */
+
+footer {
+	padding: 20px 0;
+}
+
