@@ -2,7 +2,7 @@
 
 This is project #1 of Udacity's Nanodegree. It uses Twitter's Bootstrap to build a simple, grid-based, responsive webpage and follows Google's HTML/CSS style guide.
 
-Rubric
+### Rubric
 - Responsive to Nexus 5, Ipad, and web browser.
 - Customized photos and content with added sections.
 - DOM tree correctly represents the page content
